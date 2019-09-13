@@ -1,0 +1,30 @@
+README 
+VERSION: 1.2
+DATE: 28-March-2017 
+
+CONTENTS OF THIS FILE
+---------------------
+ * Introduction
+ * Requirements
+ * Maintainers
+
+INTRODUCTION
+---------------------
+The (unofficial) SocArXiv LaTex Template is a work-in-progress based on the 
+  official latex template of the Journal of Statistical Software by
+  Achim Zeileis. Please refer to JSS.pdf for details on sa.cls arguments. 
+  Additional SocArXiv logos and graphics can be found at:  https://osf.io/zgcqv/
+
+REQUIREMENTS
+---------------------
+This template is intended to be used with LaTex, pdflatex, and latex2e. Other
+ compilers may or may not work. This template has been tested on an stable
+ version of Scientific Linux SL6 (2.6.32-573.12.1.el6.x86_64) on pdflatex, 
+ OS X 10.11  ``El Capitan" on MacTex, and MS Windows 7 (SP1 6.1-KB976932-X64) 
+ on MikTex. For specific libraries and dependencies, please see the JSS template
+ documentation (as ths SocArXiv template has inherited all from there).
+
+Maintainers
+---------------------
+Christopher Steven Marcum <cmarcum@uci.edu>
+Twitter: csmarcum
